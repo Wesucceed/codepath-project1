@@ -32,7 +32,7 @@ Here's a walkthrough of implemented required features:
 
 
 GIF created with ...
-<!-- (https://www.screentogif.com/)! -->
+(https://www.screentogif.com/)
 
 ## Notes
 
