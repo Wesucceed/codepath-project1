@@ -43,7 +43,7 @@ I struggled a little bit with creating a new project using vite
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Codepath
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
