@@ -1,5 +1,5 @@
 # codepath-project1
-# Web Development Project 1 - *GOATS*
+# Web Development Project 1 - *Football GOATS*
 
 Submitted by: **Jephthah Mensah**
 
